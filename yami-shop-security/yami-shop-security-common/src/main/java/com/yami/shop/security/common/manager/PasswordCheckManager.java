@@ -32,7 +32,7 @@ public class PasswordCheckManager {
     /**
      * 半小时内最多错误10次
      */
-    private static final int TIMES_CHECK_INPUT_PASSWORD_NUM = 10;
+    private static final int TIMES_CHECK_INPUT_PASSWORD_NUM = 100;
 
     /**
      * 检查用户输入错误的验证码次数

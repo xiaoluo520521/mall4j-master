@@ -41,7 +41,8 @@
   export default {
     data () {
       return {
-        updatePassowrdVisible: false
+        updatePassowrdVisible: false,
+
       }
     },
     components: {
